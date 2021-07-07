@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.projectfloodlight.openflow.types.OFPort"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.linkdiscovery.ILinkDiscoveryService"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.linkdiscovery.LinkInfo"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.routing.Link"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.core.IListener"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.devicemanager.IDeviceListener"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.routing.RouteId"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.routing.Route"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.mobilityprotocols.MobilityService"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.core.IOFSwitchListener"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="org.projectfloodlight.openflow.types.DatapathId"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.devicemanager.IDevice"/>
+<fullyQualifiedTypeName name="net.floodlightcontroller.devicemanager.SwitchPort"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.projectfloodlight.openflow.protocol.match.Match"/>
+</qualifiedTypeNameHistroy>
