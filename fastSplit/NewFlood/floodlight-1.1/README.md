@@ -1,3 +1,6 @@
+This contains the mobiity manager module integrated into the floodlight controller code.
+
+
 First, the Floodlight wiki has moved. Please visit us at our new site hosted by Atlassian:
 
 https://floodlight.atlassian.net/wiki/display/floodlightcontroller/Floodlight+Documentation
